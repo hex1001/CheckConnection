@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\projects\\C#\\CheckConnection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF47C30A-19A3-48F9-AB7D-CCD0630283BB}|CheckConnection\\CheckConnection.csproj|G:\\projects\\C#\\CheckConnection\\checkconnection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF47C30A-19A3-48F9-AB7D-CCD0630283BB}|CheckConnection\\CheckConnection.csproj|solutionrelative:checkconnection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF47C30A-19A3-48F9-AB7D-CCD0630283BB}|CheckConnection\\CheckConnection.csproj|G:\\projects\\C#\\CheckConnection\\checkconnection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF47C30A-19A3-48F9-AB7D-CCD0630283BB}|CheckConnection\\CheckConnection.csproj|solutionrelative:checkconnection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CheckConnection||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF47C30A-19A3-48F9-AB7D-CCD0630283BB}|CheckConnection\\CheckConnection.csproj|g:\\projects\\c#\\checkconnection\\checkconnection\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckConnection",
+              "DocumentMoniker": "G:\\projects\\C#\\CheckConnection\\CheckConnection\\CheckConnection.csproj",
+              "RelativeDocumentMoniker": "CheckConnection\\CheckConnection.csproj",
+              "ToolTip": "G:\\projects\\C#\\CheckConnection\\CheckConnection\\CheckConnection.csproj",
+              "RelativeToolTip": "CheckConnection\\CheckConnection.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-14T17:36:31.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\projects\\C#\\CheckConnection\\CheckConnection\\Form1.cs",
+              "RelativeDocumentMoniker": "CheckConnection\\Form1.cs",
+              "ToolTip": "G:\\projects\\C#\\CheckConnection\\CheckConnection\\Form1.cs",
+              "RelativeToolTip": "CheckConnection\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T17:11:13.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "G:\\projects\\C#\\CheckConnection\\CheckConnection\\Form1.cs",
+              "RelativeDocumentMoniker": "CheckConnection\\Form1.cs",
+              "ToolTip": "G:\\projects\\C#\\CheckConnection\\CheckConnection\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "CheckConnection\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T17:09:56.304Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

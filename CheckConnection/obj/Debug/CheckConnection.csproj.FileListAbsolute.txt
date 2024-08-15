@@ -1,0 +1,10 @@
+G:\projects\C#\CheckConnection\CheckConnection\bin\Debug\CheckConnection.exe
+G:\projects\C#\CheckConnection\CheckConnection\bin\Debug\CheckConnection.pdb
+G:\projects\C#\CheckConnection\CheckConnection\obj\Debug\CheckConnection.csproj.AssemblyReference.cache
+G:\projects\C#\CheckConnection\CheckConnection\obj\Debug\CheckConnection.Form1.resources
+G:\projects\C#\CheckConnection\CheckConnection\obj\Debug\CheckConnection.Properties.Resources.resources
+G:\projects\C#\CheckConnection\CheckConnection\obj\Debug\CheckConnection.csproj.GenerateResource.cache
+G:\projects\C#\CheckConnection\CheckConnection\obj\Debug\CheckConnection.csproj.CoreCompileInputs.cache
+G:\projects\C#\CheckConnection\CheckConnection\obj\Debug\CheckConnection.exe
+G:\projects\C#\CheckConnection\CheckConnection\obj\Debug\CheckConnection.pdb
+G:\projects\C#\CheckConnection\CheckConnection\bin\Debug\CheckConnection.exe.config
